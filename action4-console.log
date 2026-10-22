@@ -1,0 +1,72 @@
+[18:09:18] Osmo Client: http://127.0.0.1:8091/
+[18:09:18] Looking for camera XX:XX:XX:XX:XX:XX over Bluetooth...
+[18:09:18] Found OsmoAction4-AEFE (Osmo Action 4), connecting...
+[18:09:19] Pairing request sent
+[18:09:19] Camera: already paired with this app
+[18:09:19] BLE message 02/dc flags=00
+[18:09:20] BLE request 00/81 answered
+[18:09:20] BLE message 53/10 flags=c0
+[18:09:20] BLE message 00/f1 flags=00
+[18:09:20] BLE message 0d/02 flags=00
+[18:09:21] Camera access point: OsmoAction4-AEFE
+[18:09:21] Camera access point password received
+[18:09:21] Already on the camera network (192.168.2.130)
+[18:09:21] Datalink poke sent
+[18:09:21] Diagnostics: this live session is written to /root/osmo-dump/180921-192.168.2.1-live-19be.osmodump
+[18:09:21] Datalink handshake OK
+[18:09:21] Registered and live view requested (Action series)
+[18:09:22] Live view: a picture arrived incomplete (lost packets)
+[18:09:22] Live view: no picture or a broken one, asked the camera for a fresh keyframe
+[18:09:28] No video, restarting the session (camera packets: link 621, video 2042, link_data 78; replies: 00/99 from 28: 01020211, 00/81 from 01: e0, 02/09 from 01: d9, 00/88 from 28: 18000000, 09/a8 from 41: 00, 00/4f from 48: 00000100, 02/1f from 01: 000100, 02/2b from 01: 0000, 02/29 from 01: df, 02/19 from 01: 00100300, 02/13 from 01: df, 02/2d from 01: 00001400; incomplete pictures: 160; pictures: ? 153, PS 7 (first: PS 0 KB, ? 102 KB, ? 9 KB, ? 9 KB, ? 9 KB, PS 0 KB, ? 52 KB, ? 9 KB); decoded 0, decode errors 0)
+[18:09:29] Already on the camera network (192.168.2.130)
+[18:09:30] Datalink poke sent
+[18:09:30] Diagnostics: this live session is written to /root/osmo-dump/180930-192.168.2.1-live-b444.osmodump
+[18:09:32] Datalink handshake OK
+[18:09:32] Registered and live view requested (Action series)
+[18:09:32] Live view: a picture arrived incomplete (lost packets)
+[18:09:32] Live view: no picture or a broken one, asked the camera for a fresh keyframe
+[18:09:38] No video, restarting the session (camera packets: link 607, video 1791, link_data 77; replies: 00/99 from 28: 01020211, 00/88 from 28: 18000000, 00/81 from 01: e0, 09/a8 from 41: 00, 02/09 from 01: d9, 02/1f from 01: 000100, 02/2b from 01: 0000, 02/29 from 01: df, 02/19 from 01: 00100300, 02/13 from 01: df, 02/2d from 01: 00001400, 00/4f from 48: 00000100; incomplete pictures: 190; pictures: ? 184, PS 6 (first: ? 1 KB, ? 2 KB, ? 3 KB, PS 0 KB, ? 6 KB, ? 2 KB, PS 0 KB, ? 7 KB); decoded 0, decode errors 0)
+[18:09:39] Already on the camera network (192.168.2.130)
+[18:09:40] Datalink poke sent
+[18:09:40] Diagnostics: this live session is written to /root/osmo-dump/180940-192.168.2.1-live-a230.osmodump
+[18:09:42] Datalink handshake OK
+[18:09:42] Registered and live view requested (Action series)
+[18:09:42] Live view: a picture arrived incomplete (lost packets)
+[18:09:42] Live view: no picture or a broken one, asked the camera for a fresh keyframe
+[18:09:48] No video, restarting the session (camera packets: link 607, video 1818, link_data 77; replies: 00/99 from 28: 01020211, 00/81 from 01: e0, 09/a8 from 41: 00, 02/09 from 01: d9, 00/88 from 28: 18000000, 02/1f from 01: 000100, 02/2b from 01: 0000, 02/29 from 01: df, 02/19 from 01: 00100300, 02/13 from 01: df, 02/2d from 01: 00001400, 00/4f from 48: 00000100; incomplete pictures: 190; pictures: ? 184, PS 6 (first: ? 3 KB, ? 2 KB, ? 2 KB, PS 0 KB, ? 11 KB, ? 3 KB, PS 0 KB, ? 11 KB); decoded 0, decode errors 0)
+[18:09:49] Already on the camera network (192.168.2.130)
+[18:09:50] Datalink poke sent
+[18:09:50] Diagnostics: this live session is written to /root/osmo-dump/180950-192.168.2.1-live-fc46.osmodump
+[18:09:52] Datalink handshake OK
+[18:09:52] Registered and live view requested (Action series)
+[18:09:52] Live view: a picture arrived incomplete (lost packets)
+[18:09:52] Live view: no picture or a broken one, asked the camera for a fresh keyframe
+[18:09:58] No video, restarting the session (camera packets: link 607, video 1770, link_data 77; replies: 00/99 from 28: 01020211, 00/88 from 28: 18000000, 00/81 from 01: e0, 09/a8 from 41: 00, 02/09 from 01: d9, 00/4f from 48: 00000100, 02/1f from 01: 000100, 02/2b from 01: 0000, 02/29 from 01: df, 02/19 from 01: 00100300, 02/13 from 01: df, 02/2d from 01: 00001400; incomplete pictures: 190; pictures: ? 184, PS 6 (first: ? 4 KB, ? 4 KB, ? 4 KB, PS 0 KB, ? 11 KB, ? 4 KB, PS 0 KB, ? 8 KB); decoded 0, decode errors 0)
+[18:10:00] Already on the camera network (192.168.2.130)
+[18:10:00] Datalink poke sent
+[18:10:00] Diagnostics: this live session is written to /root/osmo-dump/181000-192.168.2.1-live-8aca.osmodump
+[18:10:02] Datalink handshake OK
+[18:10:02] Registered and live view requested (Action series)
+[18:10:02] BLE message 02/80 flags=00
+[18:10:02] Live view: a picture arrived incomplete (lost packets)
+[18:10:02] Live view: no picture or a broken one, asked the camera for a fresh keyframe
+[18:10:08] No video, restarting the session (camera packets: link 607, video 1804, link_data 77; replies: 00/99 from 28: 01020211, 00/81 from 01: e0, 00/88 from 28: 18000000, 02/09 from 01: d9, 09/a8 from 41: 00, 00/4f from 48: 00000100, 02/1f from 01: 000100, 02/2b from 01: 0000, 02/29 from 01: df, 02/19 from 01: 00100300, 02/13 from 01: df, 02/2d from 01: 00001400; incomplete pictures: 190; pictures: ? 184, PS 6 (first: ? 2 KB, ? 2 KB, ? 3 KB, ? 2 KB, PS 0 KB, ? 9 KB, ? 3 KB, PS 0 KB); decoded 0, decode errors 0)
+[18:10:10] Already on the camera network (192.168.2.130)
+[18:10:10] Datalink poke sent
+[18:10:10] Diagnostics: this live session is written to /root/osmo-dump/181010-192.168.2.1-live-8586.osmodump
+[18:10:13] Datalink handshake OK
+[18:10:13] Registered and live view requested (Action series)
+[18:10:13] Live view: a picture arrived incomplete (lost packets)
+[18:10:13] Live view: no picture or a broken one, asked the camera for a fresh keyframe
+[18:10:19] No video, restarting the session (camera packets: link 607, video 1898, link_data 77; replies: 00/99 from 28: 01020211, 00/88 from 28: 18000000, 00/81 from 01: e0, 09/a8 from 41: 00, 02/09 from 01: d9, 00/4f from 48: 00000100, 02/1f from 01: 000100, 02/2b from 01: 0000, 02/29 from 01: df, 02/19 from 01: 00100300, 02/13 from 01: df, 02/2d from 01: 00001400; incomplete pictures: 189; pictures: ? 183, PS 6 (first: ? 4 KB, ? 3 KB, ? 4 KB, PS 0 KB, ? 9 KB, PS 0 KB, ? 9 KB, ? 6 KB); decoded 0, decode errors 0)
+[18:10:20] Already on the camera network (192.168.2.130)
+[18:10:20] Datalink poke sent
+[18:10:20] Diagnostics: this live session is written to /root/osmo-dump/181020-192.168.2.1-live-7ac5.osmodump
+[18:10:23] Datalink handshake OK
+[18:10:23] Registered and live view requested (Action series)
+[18:10:23] Live view: a picture arrived incomplete (lost packets)
+[18:10:23] Live view: no picture or a broken one, asked the camera for a fresh keyframe
+[18:10:29] No video, restarting the session (camera packets: link 607, video 1708, link_data 77; replies: 00/99 from 28: 01020211, 00/81 from 01: e0, 09/a8 from 41: 00, 00/88 from 28: 18000000, 02/09 from 01: d9, 00/4f from 48: 00000100, 02/1f from 01: 000100, 02/2b from 01: 0000, 02/29 from 01: df, 02/19 from 01: 00100300, 02/13 from 01: df, 02/2d from 01: 00001400; incomplete pictures: 189; pictures: ? 183, PS 6 (first: ? 2 KB, ? 2 KB, PS 0 KB, ? 9 KB, ? 3 KB, PS 0 KB, ? 8 KB, ? 2 KB); decoded 0, decode errors 0)
+[18:10:30] Already on the camera network (192.168.2.130)
+[18:10:31] Datalink poke sent
+[18:10:31] Diagnostics: this live session is written to /root/osmo-dump/181031-192.168.2.1-live-ae50.osmodump
